@@ -41,7 +41,7 @@ Run the Tool :)
 [AppX Manager.webm](https://github.com/user-attachments/assets/5c41218c-2dbe-40f1-968b-26bbf06ddf7c)
 
 ### VirusTotal Report
-- [VirusTotal Link](https://www.virustotal.com/gui/file/315d329d1c2b52d9d498962b68dd8b4175f1c0b530e023adb69f1228522ff11f/detection)
+- [VirusTotal Link](https://www.virustotal.com/gui/file/4b21f319405188502c4b664492b878b3feaf4d3ed4e2ce0fdfe5c0301b8de109)
 
 ---
 
