@@ -1,5 +1,4 @@
-
-                                ![AppX (1)](https://github.com/user-attachments/assets/8929f8ec-f65a-4aee-bb2f-e8ea1893449b)
+![AppX (1)](https://github.com/user-attachments/assets/8929f8ec-f65a-4aee-bb2f-e8ea1893449b)
                                 
                                 AppXManager is a simple Windows optimization tool designed to streamline system performance by managing system applications (AppX packages).
                                 
