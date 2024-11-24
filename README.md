@@ -28,7 +28,7 @@ Windows installations often include many pre-installed applications and services
 ---
 
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/8929f8ec-f65a-4aee-bb2f-e8ea1893449b](https://github.com/user-attachments/assets/414e3f3e-1e17-4df1-9c5e-1cd0b63027b1)" alt="AppX Manager - Uninstall unwanted programs." width="400">
+  <img src="https://github.com/user-attachments/assets/8929f8ec-f65a-4aee-bb2f-e8ea1893449b" alt="AppX Manager - Uninstall unwanted programs." width="400">
 </p>
 
 
