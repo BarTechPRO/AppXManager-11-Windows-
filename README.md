@@ -3,17 +3,17 @@
 
 <a href="https://www.buymeacoffee.com/BarTechPRO" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-AppXManager is a simple Windows optimization tool designed to streamline system performance by managing system applications (AppX packages).
+<b>AppXManager</b> is a simple <b>Windows 10/11</b> optimization tool designed to manage system applications (AppX packages).
                                 
-It allows users to easily uninstall unwanted system apps, all through an intuitive interface.
+It allows users to <b>easily uninstall unwanted system apps</b>, all through an intuitive interface in Windows system.
+
+                              
+                        
                                 
-  The project focuses on making system customization accessible and efficient.
                                 
+  Windows installations often include many pre-installed applications and services that users may not need.
                                 
-                                
-Windows installations often include many pre-installed applications and services that users may not need.
-                                
-AppXManager simplifies the process of identifying and removing these unnecessary components, providing:
+<b>AppXManager simplifies the process of identifying and removing these unnecessary components, providing:
                                 
   Disabling unwanted programs
                                 
@@ -23,21 +23,21 @@ AppXManager simplifies the process of identifying and removing these unnecessary
                                 
 Improved user control over system behavior.
                                 
-Enhanced privacy through disabling telemetry and tracking.
+Enhanced privacy through disabling telemetry and tracking.</b>
                                 
                                 
-  Download and Install
+ <b> Download and Install
                               
                                 
-Run the Tool :)
+Run the Tool :)</b>
                                 
                                 
   [AppX Manager.webm](https://github.com/user-attachments/assets/5c41218c-2dbe-40f1-968b-26bbf06ddf7c)
                                 
                                 
-  https://www.virustotal.com/gui/file/315d329d1c2b52d9d498962b68dd8b4175f1c0b530e023adb69f1228522ff11f/detection
+  <b>https://www.virustotal.com/gui/file/315d329d1c2b52d9d498962b68dd8b4175f1c0b530e023adb69f1228522ff11f/detection</b>
                                 
-  https://drive.google.com/file/d/1KjQWoQAPSsF9BauluAgP9asoChuoklrD/view
+
                                 
                                 
                                 
