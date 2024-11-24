@@ -32,7 +32,26 @@ Windows installations often include many pre-installed applications and services
 </p>
 
 
-
+<b>Pre-installed  Apps that May Be Removed:</b>
+Cortana – Microsoft's digital assistant.
+Microsoft OneDrive – Cloud storage service.
+Microsoft Edge – The default web browser.
+Xbox Game Bar – A gaming overlay and social app.
+Xbox Console Companion – App for Xbox services.
+Microsoft Store – The app store for installing UWP apps.
+Mail and Calendar – Email and calendar management apps.
+News – The Microsoft News app.
+Movies & TV – App for purchasing and streaming media.
+Weather – Weather forecast application.
+Skype – Microsoft’s video chat software.
+Office Hub – A launcher for Office apps.
+3D Viewer – A tool to view 3D models.
+Groove Music – Music player.
+Photos – Image viewer and editor.
+Maps – Windows’ map and navigation app.
+People – Contact management app.
+Sound Recorder – For recording audio.
+Alarm & Clock – App for managing alarms, timers, and clocks.
 
 
 ### Download and Install
