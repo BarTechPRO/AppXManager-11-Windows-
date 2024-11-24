@@ -1,33 +1,31 @@
 ![AppX (1)](https://github.com/user-attachments/assets/8929f8ec-f65a-4aee-bb2f-e8ea1893449b)
+                            AppXManager is a simple Windows optimization tool designed to streamline system performance by managing system applications (AppX packages).
                                 
-                                AppXManager is a simple Windows optimization tool designed to streamline system performance by managing system applications (AppX packages).
+It allows users to easily uninstall unwanted system apps, all through an intuitive interface.
                                 
-                                It allows users to easily uninstall unwanted system apps, all through an intuitive interface.
-                                
-                                The project focuses on making system customization accessible and efficient.
-                                
+  The project focuses on making system customization accessible and efficient.
                                 
                                 
-                                Windows installations often include many pre-installed applications and services that users may not need.
                                 
-                                AppXManager simplifies the process of identifying and removing these unnecessary components, providing:
+Windows installations often include many pre-installed applications and services that users may not need.
                                 
-                                Disabling unwanted programs
+AppXManager simplifies the process of identifying and removing these unnecessary components, providing:
                                 
-                                Faster system performance.
+  Disabling unwanted programs
                                 
-                                Increased free storage space.
+  Faster system performance.
                                 
-                                Improved user control over system behavior.
+  Increased free storage space.
                                 
-                                Enhanced privacy through disabling telemetry and tracking.
+Improved user control over system behavior.
+                                
+Enhanced privacy through disabling telemetry and tracking.
                                 
                                 
-                                Download and Install
+  Download and Install
+                              
                                 
-                                Download the installer,install.
-                                
-                                Run the Tool :)
+Run the Tool :)
                                 
                                 
   [AppX Manager.webm](https://github.com/user-attachments/assets/5c41218c-2dbe-40f1-968b-26bbf06ddf7c)
