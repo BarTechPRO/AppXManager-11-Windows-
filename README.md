@@ -54,5 +54,6 @@ Explore options like:
   <h1>Disable unwanted programs.</h1>
                                 
                                 
-                 @ This is BETA tool! 
-                                # Feel free to suggest more features and options , report bugs , send messages.
+                 @ This is ALPHA TOOL!
+
+  If u would like to participate in this or other project - send me message :)
