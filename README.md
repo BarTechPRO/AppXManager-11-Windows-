@@ -28,7 +28,7 @@ Windows installations often include many pre-installed applications and services
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f1e892b4-a32b-4bfe-85bc-bbf4b9f6252f" alt="AppX Manager - Uninstall unwanted programs." width="400">
+  <img src="https://github.com/user-attachments/assets/f1e892b4-a32b-4bfe-85bc-bbf4b9f6252f" alt="AppX Manager - Uninstall unwanted programs." height="1000" width="800">
 </p>
 
 
@@ -54,6 +54,5 @@ Explore options like:
   <h1>Disable unwanted programs.</h1>
                                 
                                 
-               ![baz](https://github.com/user-attachments/assets/f1e892b4-a32b-4bfe-85bc-bbf4b9f6252f)
                  @ This is BETA tool! 
                                 # Feel free to suggest more features and options , report bugs , send messages.
