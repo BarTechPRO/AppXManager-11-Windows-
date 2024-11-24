@@ -16,11 +16,16 @@ Enhanced privacy through disabling telemetry and tracking.
 
 Download and Install
 
-Visit the official GitHub repository or the project’s website to download the installer.
+Download the installer,install.
 
-Run the Tool:
+Run the Tool :)
 
 Launch AppXManager and follow the step-by-step guide in the application.
+
 Explore options like "Uninstall AppX Packages" , "Backup Appx Packages".
 
 Detailed guides and tutorials will be available soon in the project’s documentation.
+
+
+@ This is BETA tool! 
+# Feel free to suggest more features and options , report bugs , send messages.
