@@ -42,10 +42,10 @@ Run the Tool :)</b>
                                 
                                 
                                 
-                                Explore options like "Uninstall AppX Packages" , "Backup Appx Packages".
+  Explore options like "Uninstall AppX Packages" , "Backup Appx Packages".
                                 
                                 
-                                Disable unwanted programs.
+  <h1>Disable unwanted programs.</h1>
                                 
                                 
                                 @ This is BETA tool! 
