@@ -48,7 +48,7 @@ Run the Tool :)
 ### Features
 Explore options like:
 - 🚮 **Uninstall System Apps**: Easily remove unwanted pre-installed applications.
-- ☁️ **Backup AppX Packages**: Create backups of essential system apps.
+
                                 
                                 
   <h1>Disable unwanted programs.</h1>
