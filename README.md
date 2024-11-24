@@ -31,7 +31,8 @@ Download the installer,install.
 Run the Tool :)
 
 
-![Projekt bez nazwy](https://github.com/user-attachments/assets/3dacd65b-ebfa-4c4c-98f2-2962560389d2)
+[Projekt bez nazwy.webm](https://github.com/user-attachments/assets/6ef00eed-9d73-4964-8852-40464f6997c7)
+
 
 
 
