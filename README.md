@@ -1,6 +1,6 @@
 ![AppX (1)](https://github.com/user-attachments/assets/8929f8ec-f65a-4aee-bb2f-e8ea1893449b)
 
-                                                            AppXManager is a Windows optimization tool designed to streamline system performance by managing system applications (AppX packages). It allows users to easily uninstall unwanted system apps, all through an intuitive interface. The project focuses on making system customization accessible and efficient.
+AppXManager is a Windows optimization tool designed to streamline system performance by managing system applications (AppX packages). It allows users to easily uninstall unwanted system apps, all through an intuitive interface. The project focuses on making system customization accessible and efficient.
 
 
 
