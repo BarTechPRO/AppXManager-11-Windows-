@@ -70,6 +70,7 @@ https://github.com/BarTechPRO/AppXManager11-WindowsDebloater/releases/tag/v1.0-A
 
 ### Features
 Explore options like:
+
 - 🚮 **Uninstall System Apps**: Easily remove unwanted pre-installed applications.
 
                                 
