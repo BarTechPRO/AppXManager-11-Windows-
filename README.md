@@ -114,3 +114,6 @@ Explore options like:
                  @ This is ALPHA TOOL!
 
   If u would like to participate in this or other project - send me message :)
+
+
+  <a href="https://www.freecounterstat.com" title="website hit counter"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=r45gq3hrcyz11y9ka7fzjf1pu1mp5xth" border="0" title="website hit counter" alt="website hit counter"></a>
