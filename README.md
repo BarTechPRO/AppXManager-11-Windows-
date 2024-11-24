@@ -1,5 +1,9 @@
 ![AppX (1)](https://github.com/user-attachments/assets/8929f8ec-f65a-4aee-bb2f-e8ea1893449b)
-                            AppXManager is a simple Windows optimization tool designed to streamline system performance by managing system applications (AppX packages).
+                            
+
+<a href="https://www.buymeacoffee.com/BarTechPRO" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+AppXManager is a simple Windows optimization tool designed to streamline system performance by managing system applications (AppX packages).
                                 
 It allows users to easily uninstall unwanted system apps, all through an intuitive interface.
                                 
