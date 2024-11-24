@@ -1,7 +1,7 @@
-![AppX (1)](https://github.com/user-attachments/assets/8929f8ec-f65a-4aee-bb2f-e8ea1893449b)
+<center>![AppX (1)](https://github.com/user-attachments/assets/8929f8ec-f65a-4aee-bb2f-e8ea1893449b)
                             
 
-<a href="https://www.buymeacoffee.com/BarTechPRO" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/BarTechPRO" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></center>
 
 <b>AppXManager</b> is a simple <b>Windows 10/11</b> optimization tool designed to manage system applications (AppX packages).
                                 
