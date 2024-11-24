@@ -31,7 +31,8 @@ Download the installer,install.
 Run the Tool :)
 
 
-[AppX Manager Main Window.webm](https://github.com/user-attachments/assets/6ef00eed-9d73-4964-8852-40464f6997c7)
+[AppX Manager.webm](https://github.com/user-attachments/assets/5c41218c-2dbe-40f1-968b-26bbf06ddf7c)
+
 
 
 
