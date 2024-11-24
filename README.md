@@ -43,6 +43,7 @@ Run the Tool :)
 ### VirusTotal Report
 - [VirusTotal Link](https://www.virustotal.com/gui/file/4b21f319405188502c4b664492b878b3feaf4d3ed4e2ce0fdfe5c0301b8de109)
 
+Program may be seen as Virus. It's false check. Feel free to use :)
 ---
 
 ### Features
