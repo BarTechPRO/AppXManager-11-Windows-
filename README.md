@@ -12,7 +12,7 @@ Improved user control over system behavior.
 Enhanced privacy through disabling telemetry and tracking.
 
 
-How Users Can Get Started with the Projec?
+How Users Can Get Started with the Project?
 
 Download and Install
 
