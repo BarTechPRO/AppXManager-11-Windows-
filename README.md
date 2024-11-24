@@ -65,6 +65,9 @@ Run the Tool :)
 Program may be seen as Virus. It's false check. Feel free to use :)
 ---
 
+CURRENT WORKING VERSION:
+https://github.com/BarTechPRO/AppXManager11-WindowsDebloater/releases/tag/v1.0-ALPHA
+
 ### Features
 Explore options like:
 - 🚮 **Uninstall System Apps**: Easily remove unwanted pre-installed applications.
