@@ -14,8 +14,6 @@ Improved user control over system behavior.
 Enhanced privacy through disabling telemetry and tracking.
 
 
-How Users Can Get Started with the Project?
-
 Download and Install
 
 Visit the official GitHub repository or the project’s website to download the installer.
